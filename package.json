@@ -1,0 +1,36 @@
+{
+  "name": "artcoin-explorer",
+  "description": "An open-source frontend for the Insight API. The Insight API provides you with a convenient, powerful and simple way to query and broadcast data on the artcoin network and build your own services with it.",
+  "version": "0.11.4",
+  "repository": "https://github.com/CryptoDocID/artcoin-explorer.git",
+  "contributors": [],
+  "bugs": {
+    "url": "https://github.com/CryptoDocID/artcoin-explorer/issues"
+  },
+  "homepage": "https://github.com/CryptoDocID/artcoin-explorer",
+  "license": "MIT",
+  "keywords": [
+    "insight",
+    "blockchain",
+    "blockexplorer",
+    "artcoin",
+    "artcoincore",
+    "front-end"
+  ],
+  "artcoincoreNode": "artcoincore-node",
+  "dependencies": {
+  },
+  "devDependencies": {
+    "bower": "~1.2.8",
+    "grunt": "~0.4.2",
+    "grunt-cli": "~0.1.11",
+    "grunt-contrib-jshint": "~0.8.0",
+    "grunt-contrib-concat": "~0.3.0",
+    "grunt-contrib-uglify": "~0.3.2",
+    "grunt-contrib-watch": "*",
+    "grunt-macreload": "*",
+    "grunt-css": "~0.5.4",
+    "grunt-markdown": "~0.5.0",
+    "grunt-angular-gettext": "^0.2.15"
+  }
+}
